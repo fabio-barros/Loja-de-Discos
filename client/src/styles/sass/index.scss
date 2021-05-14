@@ -9,7 +9,7 @@ body {
 }
 main {
     min-height: 80vh;
-    // background: #F5E2E2;
+    // background-image: url('https://media.tenor.com/images/d8c242627a4e0234410167cd49e4f713/tenor.gif');
 }
 
 .rating span {
@@ -24,4 +24,10 @@ main {
     .card-text{
         margin: .5rem 0;
     }
+}
+
+.subtotal {
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    
 }
