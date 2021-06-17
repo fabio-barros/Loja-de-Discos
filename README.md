@@ -1,6 +1,6 @@
 # Loja-de-Discos
 
-<p> 🖥 Aplicação MERN Stack com sistema de autênticação JWT e carrinho de compras.
+<p> 🖥 Vynil Record Store.
  </p>
 
 ### ⚙️ Estrutura
