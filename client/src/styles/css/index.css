@@ -25,10 +25,5 @@ main {
 }
 
 .card-body .card-text {
-  margin: .5rem 0;
-}
-
-.subtotal {
-  font-size: 1rem;
-  padding: 0.5rem 0;
+  margin: 0.5rem 0;
 }

@@ -1,0 +1,27 @@
+* {
+    // box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    position: relative;
+    font-size: 1rem;
+}
+main {
+    min-height: 80vh;
+    // background-image: url('https://media.tenor.com/images/d8c242627a4e0234410167cd49e4f713/tenor.gif');
+}
+
+.rating span {
+    margin: 0.15rem;
+}
+.card {
+    border: none;
+}
+.card-body {
+    // background: #F5E2E2;
+    font-family: Arial, Helvetica, sans-serif;
+    .card-text {
+        margin: 0.5rem 0;
+    }
+}
