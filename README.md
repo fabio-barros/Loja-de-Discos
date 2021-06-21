@@ -1,4 +1,4 @@
-🖥 # Vynil Record Store.
+# Vynil Record Store.
 
 
 ### ⚙️ Estrutura
