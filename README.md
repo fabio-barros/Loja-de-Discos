@@ -1,7 +1,5 @@
-# Loja-de-Discos
+#🖥 Vynil Record Store.
 
-<p> 🖥 Vynil Record Store.
- </p>
 
 ### ⚙️ Estrutura
 
