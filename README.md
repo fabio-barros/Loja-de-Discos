@@ -24,4 +24,7 @@
 - [Cloud Functions](https://firebase.google.com/docs/functions)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
+![Vynil Demo](demo/demo.jpeg)
+
+
 ### 🚀 
